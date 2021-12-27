@@ -7,9 +7,9 @@ I felt the same and placed most frequently icons as blade components and use the
 
 ## How to use?
 
-- download repository [download-laravel-icons]
+- download [Laravel Icons](https://github.com/developervijay7/laravel-icons/archive/refs/heads/master.zip)
 - place the 'icons' directory to '/resources/views/components' directory as it becomes '/resources/views/components/icons/*.blade.php'
-- search for desired icon and copy the icon code from [laravel-icons]
+- search for desired icon and copy the icon code from Laravel Icons [Website](https://laravel-icons.com)
 - place the copied code where you want to place the icon in your laravel views.
 
 ## Change Icon Size
@@ -19,6 +19,3 @@ I felt the same and placed most frequently icons as blade components and use the
 
 ## Apply custom classes to icon
 - <x-icons.moon :class="bg-red-500 p-5 hover:bg-blue-500 rounded" />
-
-  [laravel-icons]: <https://laravel-icons.com>
-  [download-laravel-icons]: <https://github.com/developervijay7/laravel-icons/archive/refs/heads/master.zip>
